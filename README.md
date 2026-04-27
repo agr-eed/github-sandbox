@@ -48,7 +48,7 @@ download: URL1 URL2 URL3
 
 **Examples:**
 
-```
+``` 
 download: https://example.com/file.zip
 ```
 
